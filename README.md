@@ -1,0 +1,2 @@
+# golangcross
+Docker golang crosscompile
